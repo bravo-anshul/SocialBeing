@@ -1,0 +1,58 @@
+	h4{
+		border-radius: 50%;
+		background-color: #3498db;
+		display: block;
+		margin:0 auto;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		padding:5px 10px;
+		border:0px;
+		border-radius: 10px;
+		color:white;
+		font-family: 'Baloo Bhaina', cursive;
+	}
+	header{
+		font-family: 'Lobster',sans-serif;
+		color:white;
+		font-size: 4vh;
+		padding:5px;
+	}
+	.banner{
+		display: flex;
+
+	}
+	.profile{
+		margin:5px;
+		border-radius: 5px;
+	}
+	.img{
+		width: 100%;
+		height: auto;
+		display: block;
+		margin:0 auto;
+	}
+	#matchSpan{
+		float:left;
+		color:white;
+		font-size: 2.2vh;
+	}
+	#responseSpan{
+		float:right;
+		color:white;
+		font-size: 2.2vh;
+	}
+	#leftTop{
+		background-color: #009688;
+		border-radius:0 0 140px 0;
+		height: auto;
+		margin-right:7%;
+		padding:0.8% 3%;
+	}
+	#rightTop{
+		background-color: #009688;
+		border-radius: 0 0 0 140px;
+		height: auto;
+		margin-left: 7%;
+		padding:0.8% 0%;
+		padding-left:3.5%;
+	}

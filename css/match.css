@@ -1,0 +1,57 @@
+	p{
+		text-align: center;
+		font-family: sans-serif;
+		font-size: 2.2vh;
+	}
+	.input{
+		margin:5px;
+		border:3px solid white;
+		padding:5px;
+		font-family: 'Raleway',sans-serif;
+	}
+	.button{
+		font-family: 'Raleway',sans-serif;
+		color:#009688;
+		margin:10px;
+		margin-top: 30px;
+		border:2px solid #009688;
+		border-radius: 10px;
+		text-align: center;
+		padding:5px;
+	}
+	.pictures{
+		overflow: hidden;
+		border-radius: 5px;
+		margin:4px;
+		position: relative;	
+	}
+	.img{
+		padding:15px;
+		border-radius:100%;
+		margin:auto;
+		width: 25%;
+		margin-top: 10%;		
+	}
+	#loader{
+		background-image: url("../images/icons/darkbg.png");
+		position: absolute;
+		height: 100vh;
+		text-align: center;
+		left: 0;
+		right: 0;
+		display: none;
+	}
+	#search{
+		margin-top: 10px;
+	}
+	#bravo{
+		margin-top:5%;
+		width:23%;
+	}
+	#skip{
+		width: 27%;
+	}
+	#cinzel{
+		font-family: 'Cinzel',sans-serif;
+		text-align: center;
+	}

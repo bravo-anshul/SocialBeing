@@ -1,0 +1,94 @@
+	body{
+		padding-bottom:80px;
+	}
+	textarea{
+		margin:5px;
+		border:1px solid black;
+		border-radius:5px;
+		box-sizing: border-box; 
+		width: 97%;
+		font-family: 'Cinzel',sans-serif;
+		padding:5px;
+		height: 150px;
+	}
+	input[type='submit']{
+		margin:5px;
+		border:2px solid white;
+		border-radius:5px;
+		color:white;
+	}
+	a{	
+		-webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
+		font-family: 'Raleway',sans-serif;
+	}
+	h3{
+		font-size: 4vh;
+	}
+	p{
+		font-family: 'Cinzel', serif;
+		color:#3498db;
+	}
+	.pictures{
+		overflow: hidden;
+		border-radius: 5px;
+		border:2px solid black;
+		margin:4px;
+		height:130px; 
+	}
+	.button{
+		border:2px solid #009688;
+		border-radius: 10px;
+		margin:10px;
+		margin-top:20px; 
+		padding:5px;
+		text-align: center;
+	}
+	.div{
+		font-family: 'Raleway',sans-serif;
+		display: flex;
+	}
+	.badge{
+		z-index: 1;
+		float: right;
+
+	}
+	.center{
+		border:2px solid grey;
+		border-radius:10px;
+		text-align:center;
+		padding:2px;
+		margin:5px
+	}
+	.bar{
+		border: 2px solid purple;
+		border-radius:0px;
+	}
+	.banner{
+		position:absolute;
+		width: 100%;
+		bottom: 0px;
+		text-align: center;
+		font-family: 'Cinzel', serif;
+		z-index: 1;
+		color:white;
+		background-image: url("../images/icons/greybg.png");
+	}
+	#dp{ 
+		position: relative;
+		border-radius: 5px;
+		overflow: hidden;
+		min-width: 35%;
+		margin: auto;
+		width: 40%;
+	}
+	#message{
+		border-color: #009688;
+	}
+	#imageSubmit{
+		margin:5px;
+		margin-left: 0;
+		padding:8px;
+		border:0px;
+		color:white;
+		background-color: #3498db;
+	}

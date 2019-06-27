@@ -1,0 +1,74 @@
+	p{ 
+		margin:5px;
+	}
+	.reciever{
+		float: right;
+		padding:5px 10px;
+		color:white;
+		background-color: #3f51b5;
+		margin:3px 5px;
+		border-radius:10px;
+	}
+	.sender{
+		float: left;
+		padding:5px 10px;
+		color:white;
+		background-color: #009688;
+		margin:3px 5px;
+		border-radius:10px; 
+
+	}
+	.button{
+	 	margin-left:100%;
+	 	width: 30%;	
+		border-radius: 10px;
+		margin:10px;
+		padding:5px 10px;
+		text-align: center;
+		background-color: #009688;
+		color:white;
+	}
+	.input{
+		padding:5px 8px;
+		margin:10px;
+		border-radius: 5px;
+		border:1px solid white;
+		color:white;
+		font-family: 'Cinzel', serif;
+	}
+	.holder{
+		overflow: hidden;
+		padding: 0px;
+	}
+	.hollowButton{
+		margin:10px 30%;
+		border:2px solid #009688;
+		border-radius: 10px;
+		text-align: center;
+	}
+	#window{
+		overflow:hidden;
+		padding:5px;
+		border-radius:5px;
+		padding-bottom: 65px;
+	}
+	#area{
+		border:1px solid #3f51b5;
+		border-radius:5px;
+		display: flex;
+		position: fixed;
+		bottom:5px;
+		width: 97.5%;
+	}
+	#spinerM{
+		display: none;
+		margin:0 auto;
+		width:10%;
+	}
+	#del{
+		margin:10px;
+		border-color:red;
+	}
+	#cancel{
+		margin:10px;
+	}

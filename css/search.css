@@ -1,0 +1,60 @@
+p{
+	margin:5px;
+}
+hr{
+	margin:2px;
+}
+	.input{
+		padding:0px 5px;
+		margin:10px;
+		border-radius: 5px;
+		border:1px solid white;
+		color:white;
+		font-family: 'Cinzel', serif;
+		
+	}
+ 	.button{
+	 	margin-left:100%;
+	 	width: 30%;	
+		border:2px solid #009688;
+		border-radius: 10px;
+		margin:10px;
+		padding:5px 10px;
+		text-align: center;
+		background-color: #009688;
+		color:white;
+	}
+	.load{
+		display: none;
+		font-size: 2.2vh;
+		font-family: 'Cinzel',sans-serif;
+		margin:10px 30%;
+	 	width: 40%;	
+		border:2px solid #009688;
+		border-radius: 10px;
+		padding:5px 10px;
+		text-align: center;
+		background-color: white;
+		color:black;
+	}
+	.img{
+		width: 100%;
+	}
+	.profile{
+		overflow: hidden;
+		max-width: 33%;
+		margin:3px;
+		border-radius: 5px;
+	}
+	.name{
+		font-size: 2.2vh;
+		font-family: 'Cinzel',sans-serif;
+	}
+	#age{
+		margin-bottom: 0px;
+	}
+
+	#icon{
+		margin: 10px;
+	}
+	

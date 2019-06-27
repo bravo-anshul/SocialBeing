@@ -1,0 +1,1 @@
+[27-Sep-2016 16:59:10 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'social48_braVo'@'localhost' to database 'social48_socialBeing' in /home/social48/public_html/tables/likes.php on line 3

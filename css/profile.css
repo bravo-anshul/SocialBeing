@@ -1,0 +1,46 @@
+	body{
+		padding-bottom: 23%;
+	}
+	p{ 
+		font-size:2.2vh;
+		margin:0px;
+		padding:5px;
+	}
+	hr{
+		margin: 0px;
+		}
+	h3{
+		font-size: 4vh;
+		font-family: "Lobster", serif;
+	}
+	.pictures{
+		overflow: hidden;
+		position: relative;
+		margin:4px;
+	}
+	.button{
+		font-size: 2.2vh;
+		margin:10px;
+		border:2px solid #009688;
+		border-radius: 10px;
+		text-align: center;
+	}
+	.div{
+		font-family: 'Raleway',sans-serif;
+		display: flex;
+	}
+	#message{
+		top:25%;
+		border-color: #cc0000;
+		color:#cc0000;
+	}
+	#follow{
+		top:35%;
+		border-color: purple;
+		
+	}
+	#dp{
+		margin-left:6%;
+		width: 40%;
+		height: auto;
+		}
